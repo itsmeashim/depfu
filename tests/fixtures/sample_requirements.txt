@@ -1,7 +1,0 @@
-requests==2.32.3
-flask>=2.0.0
-django==4.2.0
-nonexistent-python-package==1.0.0
-pytest>=7.0.0
-# This is a comment
-numpy==1.24.0
